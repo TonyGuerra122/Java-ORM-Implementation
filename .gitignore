@@ -1,0 +1,3 @@
+.vscode
+database.db
+src/main/resources/**/*
